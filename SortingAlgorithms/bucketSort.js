@@ -18,6 +18,7 @@ function insertionSort(array){
 
 
 //bucketSort
+//O(n+k)
 
 function bucketSort(list,bucketCount){
     //find the minimum of the list array

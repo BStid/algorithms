@@ -1,3 +1,6 @@
+//Insertion Sort
+//O(n)
+
 function insertionSort(array){
     //length of array
     let length = array.length;

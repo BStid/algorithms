@@ -1,4 +1,5 @@
 //Radix Sort
+//O(n*w)
  const radixSort = array =>{
     //find max number in the array and multiply is by 10
       const maxNum = Math.max(...array) * 10;

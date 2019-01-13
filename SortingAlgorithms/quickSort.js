@@ -1,4 +1,5 @@
 //Quick Sort
+//0(log n)
 
 const quickSort = array =>{
     //declare length

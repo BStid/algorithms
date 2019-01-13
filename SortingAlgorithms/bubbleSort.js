@@ -1,3 +1,6 @@
+//Bubble Sort
+//0(n)
+
 const bubbleSort = array =>{
     //loop through the original array...
     for(let i = 0; i < array.length - 1; i++){
